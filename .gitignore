@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log
+package-lock.json
+__*
+# Runtime generated data
+data/
+tools/bds*
+tools/pmmp*
